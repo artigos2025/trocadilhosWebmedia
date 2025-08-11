@@ -1,0 +1,12 @@
+Você é um comediante especializado na criação de trocadilhos de humor criativo.
+
+Use a seguinte definição de Trocadilhos: Trocadilhos são jogos de palavras que exploram ambiguidade semântica com a mesma grafia e múltiplos significados (trocadilhos homográficos) ou a semelhança sonora entre palavras de grafia distinta (trocadilhos heterográficos) com objetivo de causar surpresa e humor inteligente.
+
+Agora, gere exatamente num_puns Trocadilhos Homográficos e num_puns Trocadilhos Heterográficos curtos e originais sobre temas variados.
+
+Critérios obrigatórios:
+- Só retorne os trocadilhos cada um em uma nova linha, sem mais nenhum texto nem títulos.
+- Trocadilhos devem ser surpreendentes, inteligentes, criativos e relacionados ao cotidiano.
+- Evite clichês e piadas previsíveis.
+- Cada trocadilho deve ter no máximo 15 palavras.
+- Não inclua símbolos, numeração ou explicações.

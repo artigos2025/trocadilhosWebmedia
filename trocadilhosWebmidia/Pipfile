@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+tqdm = "*"
+scikit-learn = "*"
+sentence-transformers = "*"
+rouge-score = "*"
+bert-score = "*"
+statsmodels = "*"
+trueskill = "*"
+torchvision = "*"
+torchaudio = "*"
+transformers = {extras = ["torch"], version = "*"}
+openai = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
